@@ -1364,7 +1364,7 @@ Comandos:
 </string>
     <string name="ID_Sort">Ordenar ID</string>
     <string name="Master_Tamer">Maestro Domador</string>
-    <string name="Get_ALL_Pets_To_Level_100_">Sube TODAS las mascotas a nivel 100</string>
+    <string name="Get_ALL_Pets_To_Level_100_">Sube todas las mascotas a nivel 100</string>
     <string name="TAMER">DOMADOR</string>
     <string name="Allow_Recombine">Permitir recombinar</string>
     <string name="Defenders">Defensores</string>
@@ -1372,7 +1372,7 @@ Comandos:
     <string name="MEGA_SPLIT">MEGA SEPARARSE 64x</string>
     <string name="Missing_Permissions">Permisos Pendientes</string>
     <string name="DELETE_ACCOUNT">ELIMINAR CUENTA</string>
-    <string name="delete_prompt">¿Estás seguro de que deseas eliminar tu cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
+    <string name="delete_prompt">¿Estás Seguro de que Deseas Eliminar tu cuenta? ¡Esto es PERMANENTE y NO SE PUEDE DESHACER!</string>
 
 
     <string name="Type">Escribir</string>
@@ -1396,15 +1396,15 @@ Comandos:
     <string name="CLAN_BACKGROUND_COLOR">COLOR FONDO DEL CLAN</string>
     <string name="activate">activar</string>
     <string name="clan_id">ID del clan</string>
-    <string name="language_change_warning">Cambiar el idioma hará que la aplicación se reinicie.</string>
-    <string name="xmas_gift_boost_message">¡Has recibido un regalo de acelerador de plasma 3x por 1 día!</string>
-    <string name="no_response">No hay respuesta del servidor. Por favor, comprueba tu conexión a internet.</string>
+    <string name="language_change_warning">Cambiar el Idioma hará que la Aplicación se reinicie.</string>
+    <string name="xmas_gift_boost_message">¡Has recibido un regalo de Acelerador de Plasma 3x por 1 día!</string>
+    <string name="no_response">No hay Respuesta del Servidor. Por favor, Comprueba tu Conexión a Internet.</string>
     <string name="RAMADAN">RAMADÁN</string>
     <string name="SUDDEN_ATTACK">ATAQUE SÚBITO</string>
 
 
     <string name="sign_in_explanation" translatable="true">
-"Regístrate para acceder al modo multijugador. Podrás:
+"Regístrate para Acceder al modo Multijugador. Podrás:
 
 - Jugar y comunicarte con otros jugadores de todo el mundo
 - Compartir tu progreso con los demás
@@ -1414,10 +1414,10 @@ Comandos:
 
 Si no deseas registrarte, aún puedes jugar en modo individual."
     </string>
-    <string name="_2x_skin_resolution">Resolución de skin doble</string>
+    <string name="_2x_skin_resolution">Resolución de skin Doble</string>
     <string name="pm">MP</string>
     <string name="You_are_already_friends_">Ya sois amigos </string>
-    <string name="Account_must_be_1_day_old_to_send_mail_">Para enviar correo, la cuenta debe haber sido creada, por lo menos, hace un día </string>
+    <string name="Account_must_be_1_day_old_to_send_mail_">Para Enviar Correo, la cuenta debe haber sido Creada, por lo menos, hace un día </string>
     <string name="Translator">Traductor</string>
     <string name="SUCCESS">ÉXITO</string>
 
